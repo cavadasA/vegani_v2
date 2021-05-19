@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.text-color {
+  color: #89A246;
+}
+
+h1.title {
+  font-family: Hunters;
+  color: #89A246;
+}
