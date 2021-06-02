@@ -37,6 +37,15 @@
   }
 }
 
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
 .text-color {
   color: #89A246;
 }
@@ -44,4 +53,5 @@
 h1.title {
   font-family: Hunters;
   color: #89A246;
+  
 }
