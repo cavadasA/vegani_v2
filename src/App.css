@@ -36,6 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.header {
+  background:rgba(255,255,255, 0.5);
+}
 
 .footer{
   margin-top: 1rem;
@@ -55,3 +58,11 @@ h1.title {
   color: #89A246;
   
 }
+
+body {
+  background-image: url("./imgs/IMG_5283.jpg");
+  background-size: cover;
+  background-position: 0 25%;
+  background-repeat: no-repeat;
+}
+

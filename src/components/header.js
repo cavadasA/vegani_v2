@@ -1,7 +1,7 @@
 
 export function Header() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light header">
                 <ul className="navbar-nav justify-content-around w-100 align-items-center">
                     <li className="nav-item active">
                         <a className="nav-link" href="#"><span className="text-color"><h3>Quienes Somos</h3></span></a>
